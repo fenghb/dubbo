@@ -1,0 +1,31 @@
+10
+
+dir
+65
+http://192.168.191.139/svn/dubbo_project/branch/1.0/edu-service-user/src/main/java/wusc/edu/facade/user/service
+http://192.168.191.139/svn/dubbo_project
+
+
+
+2016-09-20T23:04:28.313812Z
+17
+fenghaibo
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+be89b249-5701-0010-97f4-67d3e06863c7
+
+impl
+dir
+

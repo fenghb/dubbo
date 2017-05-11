@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/dubbo_project/!svn/ver/65/branch/1.0/edu-web-boss/src/main/resources/spring
+END
+spring-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dubbo_project/!svn/ver/65/branch/1.0/edu-web-boss/src/main/resources/spring/spring-context.xml
+END
+dubbo-consumer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dubbo_project/!svn/ver/65/branch/1.0/edu-web-boss/src/main/resources/spring/dubbo-consumer.xml
+END

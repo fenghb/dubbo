@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/dubbo_project/!svn/ver/65/branch/1.0/edu-web-boss/src/main/resources/struts
+END
+struts-nologin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dubbo_project/!svn/ver/65/branch/1.0/edu-web-boss/src/main/resources/struts/struts-nologin.xml
+END
+struts-login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/dubbo_project/!svn/ver/65/branch/1.0/edu-web-boss/src/main/resources/struts/struts-login.xml
+END
+struts-user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dubbo_project/!svn/ver/65/branch/1.0/edu-web-boss/src/main/resources/struts/struts-user.xml
+END

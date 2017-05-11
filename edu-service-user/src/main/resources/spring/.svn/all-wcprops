@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dubbo_project/!svn/ver/64/branch/1.0/edu-service-user/src/main/resources/spring
+END
+spring-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dubbo_project/!svn/ver/64/branch/1.0/edu-service-user/src/main/resources/spring/spring-context.xml
+END
+dubbo-provider.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dubbo_project/!svn/ver/64/branch/1.0/edu-service-user/src/main/resources/spring/dubbo-provider.xml
+END
+spring-mybatis.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dubbo_project/!svn/ver/64/branch/1.0/edu-service-user/src/main/resources/spring/spring-mybatis.xml
+END

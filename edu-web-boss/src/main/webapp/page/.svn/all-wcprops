@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dubbo_project/!svn/ver/65/branch/1.0/edu-web-boss/src/main/webapp/page
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dubbo_project/!svn/ver/65/branch/1.0/edu-web-boss/src/main/webapp/page/login.jsp
+END
+timeoutConfirm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dubbo_project/!svn/ver/65/branch/1.0/edu-web-boss/src/main/webapp/page/timeoutConfirm.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dubbo_project/!svn/ver/65/branch/1.0/edu-web-boss/src/main/webapp/page/index.jsp
+END
+effectiveUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dubbo_project/!svn/ver/65/branch/1.0/edu-web-boss/src/main/webapp/page/effectiveUser.jsp
+END
+logoutConfirm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dubbo_project/!svn/ver/65/branch/1.0/edu-web-boss/src/main/webapp/page/logoutConfirm.jsp
+END

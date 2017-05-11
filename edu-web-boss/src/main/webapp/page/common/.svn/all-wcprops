@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dubbo_project/!svn/ver/65/branch/1.0/edu-web-boss/src/main/webapp/page/common
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dubbo_project/!svn/ver/65/branch/1.0/edu-web-boss/src/main/webapp/page/common/error.jsp
+END
+permissionError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/dubbo_project/!svn/ver/65/branch/1.0/edu-web-boss/src/main/webapp/page/common/permissionError.jsp
+END
+operateSuccess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dubbo_project/!svn/ver/65/branch/1.0/edu-web-boss/src/main/webapp/page/common/operateSuccess.jsp
+END
+operateError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dubbo_project/!svn/ver/65/branch/1.0/edu-web-boss/src/main/webapp/page/common/operateError.jsp
+END
